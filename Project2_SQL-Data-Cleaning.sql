@@ -4,7 +4,7 @@ Data Analyst Portfolio Project 2: SQL Data Cleaning
 Hi, my name is Jd. 
 This project intends to highlight the Data Cleaning queries I learned
 in the Data Analyst Bootcamp of Alex Freberg aka Alex The Analyst. Skills used are as follows:
-Converting Data Format, Breaking out Strings into Substrings, Standardizing Entries, Removing Duplicates
+Converting Data Type, Breaking out Strings into Substrings, Standardizing Entries, Removing Duplicates
 and Deleting Unused Columns.
 
 Dataset was downloaded from https://bit.ly/3m3MI9r.
@@ -25,7 +25,7 @@ from nashvillehousing
 
 -- -------------------------------------------------------------------------------------------------------------
 
-/* Converting Data Format: convert the SaleDate data type into a DATE */
+/* Converting Data Type: convert the SaleDate data type into a DATE */
 
 -- 1. check the data type of SaleDate (a text/string upon checking)
 show columns
