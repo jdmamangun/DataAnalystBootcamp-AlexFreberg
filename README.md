@@ -1,4 +1,5 @@
 **Project 1: COVID Data Exploration**
+
 Highlights basic, intermediate, and advanced SQL queries.
 
 Project 2: Nashville Housing Data Cleaning
